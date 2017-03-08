@@ -4,19 +4,21 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+3/8
 
 ### Student Name:  
-(First and Last Name)
+Nicholas Weber
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This lesson helped teach us how to use DOM characteristics to help create
+dynamic HTML.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+
+https://ntw15.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to access elements by id, tag name, class, among other methods
+2. I also learned how to add and remove document nodes.
+3. I also learned how to use History, Screen, and Navigation (among other)
+   methods to manipulate the browser window.
